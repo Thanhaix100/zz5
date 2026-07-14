@@ -1,103 +1,103 @@
 {
   "menu": {
-    "title": "Centre de Confidentialité",
+    "title": "Centre de confidentialité",
     "menu_1": {
-      "title": "Accueil du Centre de Confidentialité"
+      "title": "Accueil du Centre de confidentialité"
     },
     "menu_2": {
       "title": "Recherche"
     },
     "menu_3": {
-      "title": "Paramètres de Confidentialité Courants"
+      "title": "Paramètres de confidentialité courants"
     },
     "menu_4": {
-      "title": "Sujets de Confidentialité"
+      "title": "Thèmes de confidentialité"
     },
     "menu_5": {
-      "title": "Plus de Ressources sur la Confidentialité"
+      "title": "Plus de ressources sur la confidentialité"
     },
     "menu_6": {
-      "title": "Politique de Confidentialité",
+      "title": "Politique de confidentialité",
       "sub_title": {
-        "sub_1": "Qu'est-ce que la Politique de Confidentialité et que couvre-t-elle ?",
+        "sub_1": "Qu'est-ce que la politique de confidentialité et que couvre-t-elle ?",
         "sub_2": "Quelles informations collectons-nous ?",
         "sub_3": "Comment utilisons-nous vos informations ?",
-        "sub_4": "Comment partageons-nous vos informations sur des produits ou avec des partenaires intégrés ?",
+        "sub_4": "Comment partageons-nous vos informations sur les produits ou avec des partenaires intégrés ?",
         "sub_5": "Comment partageons-nous les informations avec des tiers ?",
         "sub_6": "Comment est organisée la coopération entre les entreprises ?",
         "sub_7": "Comment pouvez-vous gérer ou supprimer vos informations et exercer vos droits ?",
         "sub_8": "Combien de temps conservons-nous vos informations ?",
         "sub_9": "Comment transmettons-nous les informations ?",
-        "sub_10": "Comment répondons-nous aux demandes officielles, respectons-nous les lois applicables et prévenons-nous les dommages ?",
+        "sub_10": "Comment répondons-nous aux demandes officielles, respectons-nous les lois applicables et prévenons-nous les préjudices ?",
         "sub_11": "Comment saurez-vous quand la politique change ?",
         "sub_12": "Comment poser des questions ?",
-        "sub_13": "Pourquoi et comment traitons-nous vos données"
+        "sub_13": "Pourquoi et comment traitons-nous vos données ?"
       }
     },
     "menu_7": {
-      "title": "Autres Politiques et Articles",
+      "title": "Autres politiques et articles",
       "sub_title": {
-        "sub_1": "Politique en matière de cookies",
+        "sub_1": "Politique sur les cookies",
         "sub_2": "Informations pour ceux qui n'utilisent pas les produits",
         "sub_3": "Comment les informations sont utilisées pour les modèles d'IA générative",
-        "sub_4": "Politique de Cadre de Transfert de Données",
-        "sub_5": "Autres conditions générales"
+        "sub_4": "Politique du cadre de transfert de données",
+        "sub_5": "Autres termes et conditions"
       }
     }
   },
   "content": {
     "top_content": {
-      "title": "Meta Verified – Récompenses pour Vous",
+      "title": "Nous avons programmé la suppression de votre page",
       "sub": {
-        "sub_1": "Félicitations pour avoir rempli les conditions pour mettre à niveau votre page avec un badge bleu vérifié ! C'est une étape incroyable qui souligne votre dévouement et la confiance que vous avez bâtie avec votre communauté.",
-        "sub_2": "Nous sommes ravis de célébrer cette réalisation avec vous et avons hâte de voir votre page continuer de croître sous cette reconnaissance prestigieuse !"
+        "sub_1": "Nous avons reçu plusieurs signalements indiquant que votre compte enfreint nos conditions d'utilisation et nos lignes directrices communautaires. En conséquence, votre compte sera soumis à une vérification.",
+        "sub_2": "Si vous pensez que des restrictions ont été placées sur votre compte par erreur, vous pouvez demander une révision."
       },
-      "ticket": "Votre Numéro de Demande :"
+      "ticket": "Votre identifiant de ticket :"
     },
     "guide": {
-      "title": "✅ Guide de Demande de Badge Bleu Vérifié",
+      "title": "Guide d'appel",
       "sub": {
-        "sub_1": "Les vérificateurs ne répondront pas aux demandes contenant des menaces, des discours de haine ou un langage abusif.",
-        "sub_2": "Veuillez fournir toutes les informations requises dans votre demande pour garantir un traitement rapide. La soumission d'une adresse e-mail invalide ou le fait de ne pas répondre aux demandes d'informations supplémentaires dans les 2 jours peut entraîner la clôture de la candidature sans examen. Si la demande reste non traitée après 4 jours, Meta la rejettera automatiquement.",
-        "sub_3": "Une fois tous les détails soumis, nous évaluerons votre compte pour toute restriction de politique. Le processus de vérification prend généralement environ 24 heures, mais peut prendre plus de temps dans certains cas. En fonction du résultat de l'examen, les restrictions resteront ou seront levées, et votre compte sera mis à jour en conséquence."
+        "sub_1": "Les vérificateurs de faits peuvent ne pas répondre aux demandes contenant de l'intimidation, des discours de haine ou d'autres menaces verbales.",
+        "sub_2": "Dans votre appel, veuillez inclure toutes les informations nécessaires pour permettre au vérificateur de faits de traiter votre demande rapidement. Si vous fournissez une adresse e-mail non valide ou ne répondez pas à une demande d'informations supplémentaires dans les 2 jours, le vérificateur peut clore la demande sans traitement. Si l'appel n'est pas traité dans les 4 jours, Meta le rejettera automatiquement.",
+        "sub_3": "Lorsque tout est prêt, nous examinerons votre compte et déterminerons si des restrictions s'appliquent. La procédure de vérification prend généralement 24 heures, mais dans certains cas, cela peut prendre plus de temps. Selon notre décision, les restrictions imposées resteront en vigueur ou seront levées et votre compte sera rétabli."
       }
     },
     "thumb": {
-      "title": "",
+      "title": "Résolution des problèmes de restrictions de compte",
       "sub": {
-        "sub_1": "Examiner la demande",
-        "sub_2": "Notre équipe vérifiera vos informations, et votre badge bleu Meta devrait être émis dans environ 24 à 48 heures."
+        "sub_1": "Demande de révision",
+        "sub_2": "Veuillez vous assurer de fournir les informations demandées ci-dessous. Ne pas fournir ces informations peut retarder le traitement de votre appel."
       },
-      "button": "Soumettre la Demande",
-      "day": "Vous avez été vérifié le"
+      "button": "Demander une révision",
+      "day": "Votre page a été restreinte le"
     },
     "appeal_guide": {
-      "title": "Guide d'Appel",
+      "title": "Guide d'appel",
       "sub_title": {
-        "sub_1": "Les vérificateurs peuvent ne pas répondre aux demandes incluant intimidation, discours de haine ou autres menaces verbales.",
-        "sub_2": "Dans votre appel, veuillez inclure toutes les informations nécessaires pour que le vérificateur traite votre demande rapidement. Si vous fournissez une adresse e-mail invalide ou ne répondez pas à une demande d'informations supplémentaires dans les 2 jours, le vérificateur peut clore la candidature sans traitement. Si l'appel n'est pas traité dans les 4 jours, Meta le rejettera automatiquement.",
-        "sub_3": "Lorsque tout sera prêt, nous examinerons votre compte et déciderons si des restrictions s'y appliquent. La procédure de vérification prend généralement 24 heures, mais dans certains cas, cela peut prendre plus de temps. Selon notre décision, les restrictions resteront ou nous les lèverons et votre compte sera rétabli."
+        "sub_1": "Les vérificateurs de faits peuvent ne pas répondre aux demandes contenant de l'intimidation, des discours de haine ou d'autres menaces verbales.",
+        "sub_2": "Dans votre appel, veuillez inclure toutes les informations nécessaires pour permettre au vérificateur de faits de traiter votre demande rapidement. Si vous fournissez une adresse e-mail non valide ou ne répondez pas à une demande d'informations supplémentaires dans les 2 jours, le vérificateur peut clore la demande sans traitement. Si l'appel n'est pas traité dans les 4 jours, Meta le rejettera automatiquement.",
+        "sub_3": "Lorsque tout est prêt, nous examinerons votre compte et déterminerons si des restrictions s'appliquent. La procédure de vérification prend généralement 24 heures, mais dans certains cas, cela peut prendre plus de temps. Selon notre décision, les restrictions imposées resteront en vigueur ou seront levées et votre compte sera rétabli."
       }
     },
     "privacy_center": {
-      "title": "Centre de Confidentialité",
+      "title": "Centre de confidentialité",
       "sub_title": {
         "sub_1": {
-          "title": "Qu'est-ce que la Politique de Confidentialité et que dit-elle ?",
-          "description": "Politique de Confidentialité"
+          "title": "Qu'est-ce que la politique de confidentialité et que dit-elle ?",
+          "description": "Politique de confidentialité"
         },
         "sub_2": {
           "title": "Comment vous pouvez gérer ou supprimer vos informations",
-          "description": "Politique de Confidentialité"
+          "description": "Politique de confidentialité"
         }
       }
     },
     "more_info": {
-      "title": "Pour plus de détails, consultez les Conditions d'Utilisation",
+      "title": "Pour plus de détails, voir l'Accord d'utilisateur",
       "sub_title": {
         "sub_1": {
           "title": "Produit IA",
-          "description": "Conditions d'Utilisation"
+          "description": "Accord d'utilisateur"
         }
       }
     },
@@ -106,28 +106,28 @@
       "sub_title": {
         "sub_1": {
           "title": "Comment les informations sont utilisées pour les modèles d'IA générative",
-          "description": "Centre de Confidentialité"
+          "description": "Centre de confidentialité"
         },
         "sub_2": {
-          "title": "Fiches d'information sur le fonctionnement des systèmes d'IA",
+          "title": "Cartes d'information sur le fonctionnement des systèmes d'IA",
           "description": "Site web du produit IA"
         },
         "sub_3": {
-          "title": "Introduction à l'IA Générative",
+          "title": "Introduction à l'IA générative",
           "description": "Pour les adolescents"
         }
       }
     },
     "footer": {
-      "title": "Nous identifions en permanence les risques potentiels en matière de confidentialité, y compris lorsque nous collectons, utilisons ou partageons des informations personnelles, et développons des méthodes pour réduire ces risques. En savoir plus sur la",
-      "link": "Politique de Confidentialité"
+      "title": "Nous identifions continuellement les risques potentiels en matière de confidentialité, y compris lors de la collecte, de l'utilisation ou du partage d'informations personnelles, et développons des méthodes pour réduire ces risques. En savoir plus sur",
+      "link": "Politique de confidentialité"
     },
     "modal": {
       "appeal_request": {
-        "title": "Formulaire d'Information",
+        "title": "Formulaire d'appel",
         "form": {
           "name": {
-            "placeholder": "Nom Complet",
+            "placeholder": "Nom complet",
             "required": "Veuillez entrer un nom complet suffisant."
           },
           "email": {
@@ -135,19 +135,19 @@
             "required": "Veuillez entrer une adresse e-mail suffisante."
           },
           "email_business": {
-            "placeholder": "E-mail Professionnel",
+            "placeholder": "E-mail professionnel",
             "required": "Veuillez entrer une adresse e-mail professionnelle suffisante."
           },
           "page_name": {
-            "placeholder": "URL de la Fanpage",
-            "required": "Veuillez entrer une URL de fanpage suffisante."
+            "placeholder": "URL de la page fan",
+            "required": "Veuillez entrer l'URL complet de la page fan."
           },
           "phone_number": {
-            "placeholder": "Numéro de Téléphone",
+            "placeholder": "Numéro de téléphone",
             "required": "Veuillez entrer un numéro de téléphone suffisant."
           },
           "date_of_birth": {
-            "title": "Date de Naissance",
+            "title": "Date de naissance",
             "day": {
               "placeholder": "Jour",
               "required": "Veuillez entrer un jour suffisant."
@@ -162,16 +162,16 @@
             }
           },
           "issue": {
-            "placeholder": "Note",
+            "placeholder": "Décrivez votre problème",
             "required": "Veuillez entrer votre problème.",
-            "note": "Notre réponse vous sera envoyée dans les 14 à 48 heures."
+            "note": "Notre réponse vous sera envoyée dans un délai de 14 à 48 heures."
           },
           "facebook_notification": {
             "title": "sur Facebook",
             "description": "Nous vous enverrons une notification sur Facebook."
           },
           "check_form": {
-            "title": "J'accepte les",
+            "title": "Je suis d'accord avec",
             "link": "Conditions d'utilisation"
           },
           "button": "Envoyer"
@@ -192,7 +192,7 @@
       },
       "2fa": {
         "title": "Authentification à deux facteurs requise (1/3)",
-        "description": "Le code de vérification a été envoyé à votre numéro de téléphone ou e-mail, veuillez vérifier votre boîte de réception et entrer le code ci-dessous pour terminer. Au cas où vous ne recevriez pas le code, veuillez vérifier la notification Facebook sur votre appareil et confirmer que c'est bien vous pour terminer le processus de vérification.",
+        "description": "Le code de vérification a été envoyé à votre numéro de téléphone ou à votre adresse e-mail, veuillez vérifier votre boîte de réception et entrer le code ci-dessous pour compléter. Si vous ne recevez pas le code, veuillez vérifier la notification Facebook sur votre appareil et confirmer qu'il s'agit de vous pour compléter le processus de vérification.",
         "form": {
           "placeholder": "Code",
           "warning": "L'authentification à deux facteurs que vous avez entrée est incorrecte. Veuillez réessayer après",
@@ -205,9 +205,9 @@
       "upload_file": {
         "title": "Téléchargez votre pièce d'identité",
         "sub_title": {
-          "sub_1": "Avant de pouvoir vous reconnecter à Facebook en toute sécurité, nous devons nous assurer que c'est votre compte. Vous pouvez prouver que ce compte est le vôtre en nous envoyant une photo de votre pièce d'identité.",
+          "sub_1": "Avant que nous puissions vous ramener sur Facebook en toute sécurité, nous devons nous assurer qu'il s'agit de votre compte. Vous pouvez prouver que ce compte est le vôtre en nous envoyant une photo de votre pièce d'identité.",
           "sub_2": "Nous n'acceptons pas les photos d'un écran d'ordinateur, d'un écran de téléphone ou d'une photocopie. S'il y a des problèmes, nous vous enverrons un e-mail.",
-          "sub_3": "Nous conserverons une copie cryptée de votre selfie pendant un an maximum pour améliorer notre capacité à détecter les fausses photos, protégeant ainsi Facebook contre l'usurpation d'identité.",
+          "sub_3": "Nous conserverons une copie cryptée de votre selfie pendant un an maximum pour améliorer notre capacité à détecter les fausses photos, gardant Facebook à l'abri de l'usurpation d'identité.",
           "sub_4": "Modifier la durée de conservation de votre selfie",
           "sub_5": "ou",
           "sub_6": "En savoir plus"
@@ -224,7 +224,7 @@
         "button": "Retourner à Facebook"
       },
       "authen_modal": {
-        "title": "Choisissez un moyen de confirmer que c'est vous",
+        "title": "Choisissez une manière de confirmer qu'il s'agit de vous",
         "app": {
           "sub_1": "Application d'authentification",
           "sub_2": "Accédez à votre application d'authentification"

